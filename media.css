@@ -63,5 +63,8 @@
         outline: none;
         border-style: none;
     }
+   .section4{
+      display:flex;
+      justify-content:center;
     
 }
