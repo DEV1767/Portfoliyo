@@ -1,0 +1,134 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+body{
+    background-color: #0F172A;
+    color: #F8FAFC;
+    height: auto;
+    width: auto;
+}
+ .section1{
+    height: 300px;
+    width: 300px;
+   margin: auto;
+   margin-top: 30px;
+   padding: 20px;
+ }
+ .box{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    background-image: url(img/IMG-20241010-WA0036.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    border: 10px solid #FACC15;
+    
+ }
+ .section2{
+    height: 350px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+
+
+ }
+ .box2{
+    height: 280px;
+    width: 500px;
+    border: 5px solid #FACC15;
+    padding: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius:30px;
+    background-color: #1E293B;
+    box-shadow: 0 0 15px #1E40AF;
+    
+ }
+ 
+ .html,
+ .css,
+ .java,
+ .python,
+ .c{
+    height: 20px;
+    width: auto;
+    border: 2px solid #FACC15;
+    border-radius: 20px;
+    background-color: #0F172A;
+    margin-top: 5px;
+
+
+ }
+ 
+ #html{
+    height: 20px;
+    width: 80%;
+    border-radius: 20px;
+    background-color:#FACC15;
+
+ }
+ #css{
+    height: 20px;
+    width: 70%;
+    border-radius: 20px;
+    background-color:#FACC15;
+
+ }
+ #java{
+    height: 20px;
+    width: 50%;
+    border-radius: 20px;
+    background-color: #FACC15;
+ }
+ #python{
+    height: 20px;
+    width: 30%;
+    border-radius: 20px;
+    background-color: #FACC15;
+ }
+ #c{
+     height: 20px;
+    width: 80%;
+    border-radius: 20px;
+    background-color:#FACC15;
+ }
+ .section3{
+    margin: auto;
+    height: 100px;
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+ button{
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: #2563EB;
+    color: #F8FAFC;
+    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.5);
+ }
+ .section4{
+    height: 50px;
+    width: auto;
+    background-color: black;
+    color: white;
+ }
+ .footer{
+    display: flex;
+    justify-content: center;
+ }
+ .footer span{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+ }
