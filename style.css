@@ -116,6 +116,8 @@ body{
     background-color: #2563EB;
     color: #F8FAFC;
     box-shadow: 0 4px 10px rgba(37, 99, 235, 0.5);
+     border:none;
+     outline:none;
  }
  .section4{
     height: 50px;
